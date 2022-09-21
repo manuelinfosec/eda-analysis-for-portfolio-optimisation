@@ -57,7 +57,7 @@ The cumulative return is the total change in the investment price over a set tim
 ## Conclusions:
 - **IRCTC** contained some positive outliers affecting analysis, and had the largest spread.
 - **Correlation Matrix** indicates the strength of the relationship between the stocks in the portfolio.
-    - **WIPRO**/**BPCL** and **INFY**/**RELIANCE** are good investments, considering portfolio diversification. If either of them in one direction, there's a less chance of the other also moving in the same direction.
+    - **WIPRO**/**BPCL** and **INFY**/**RELIANCE** are good investments, considering portfolio diversification. If either of moves them in one direction, there's a less chance of the other also moving in the same direction.
     - **Diversification** can help reduce the portfolio's risk so that one asset or asset class's performance doesn't affect the entire portfolio.
 
  - **Sharpe Ratio** indicates how much return is received for the volatility of holding a riskier asset. 
